@@ -105,7 +105,7 @@
         </div>
         
         <a href="UsuarioControlador?action=add" class="btn-agregar">+ Agregar Usuario</a>
-        <a href="../home.jsp" class="btn-volver"> Volver al Inicio</a>
+        <a href="home.jsp" class="btn-volver"> Volver al Inicio</a>
         
         <table>
             <thead>

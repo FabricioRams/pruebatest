@@ -59,6 +59,13 @@
                 color: white;
                 border-radius: 4px;
             }
+            .btn-volver {
+                background-color: #757575;
+                color: white;
+                padding: 10px 20px;
+                display: inline-block;
+                border-radius: 4px;
+            }
         </style>
     </head>
     <body>
@@ -95,6 +102,6 @@
             </tbody>
         </table>
         <br>
-        <a href="index.jsp">Regresar</a>
+        <a href="home.jsp" class="btn-volver">← Regresar al Inicio</a>
     </body>
 </html>

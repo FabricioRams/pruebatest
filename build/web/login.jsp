@@ -170,6 +170,7 @@
                 <p><strong>Administrador:</strong> admin / 123456</p>
                 <p><strong>Gerente:</strong> gerente1 / 123456</p>
                 <p><strong>Vendedor:</strong> vendedor1 / 123456</p>
+                <p><strong>Cliente:</strong> cliente / 123456</p>
             </div>
         </div>
     </body>
